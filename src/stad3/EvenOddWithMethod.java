@@ -6,11 +6,11 @@ public class EvenOddWithMethod
     {
         if (n%2==0)
         {
-            System.out.println("Number is even");
+            System.out.println("The number is even");
         }
         else
         {
-            System.out.println("Number is odd");
+            System.out.println("The number is odd");
         }
     }
 
