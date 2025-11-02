@@ -11,6 +11,11 @@ public class EvenOddWithMethod
         else
         {
             System.out.println("01Number is odd");
+            System.out.println("The number is even");
+        }
+        else
+        {
+            System.out.println("The number is odd");
         }
     }
 
